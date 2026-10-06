@@ -8,7 +8,9 @@
  (https://github.com/thoro8990-commits/setting-up-home-lab)
  
 <h2>CERTIFICATION </h2>
-<b> Microsoft excel specialist certification</b>
+<b> Microsoft excel specialist certification</b> 
+![Image Alt](https://github.com/thoro8990-commits/thoro8990-commits/blob/58536c56df9bebcc084e228015cdb35d1734378e/Cert163444439.pdf)
+
 
 
 
