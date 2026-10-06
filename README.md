@@ -13,6 +13,7 @@
 
 <b> CYBERSECURITY ESSENTIALS Schoolville certification</b>
 <a href="https://github.com/thoro8990-commits/thoro8990-commits/blob/ecc34f2c7fa9ff8144dae21e58dffd380bad0a74/certificate.pdf.pdf"> Schoolville certification </a>
+
 <b> Microsoft excel specialist certification</b>
 <a href="https://github.com/thoro8990-commits/thoro8990-commits/blob/58536c56df9bebcc084e228015cdb35d1734378e/Cert163444439.pdf"> Microsoft excel </a>
 
